@@ -1,6 +1,8 @@
 ## Bem vindo ao github de Tiago Pesch!
 
 
+<h1>Principais tecnologias:</h1>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="tiago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
